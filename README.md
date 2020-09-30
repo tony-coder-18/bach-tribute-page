@@ -1,2 +1,3 @@
 # bach-tribute-page
-Bach tribute page repository
+Bach tribute page repository.
+Project idea is from the FreeCodeCamp Curriculum.
