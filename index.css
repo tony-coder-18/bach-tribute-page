@@ -1,0 +1,74 @@
+html {
+  font-family: "Montserrat", sans-serif;
+  margin: 0px;
+  padding: 0px;
+
+  background-color: #fff;
+}
+
+.body {
+  text-align: center;
+  color: #000000;
+  margin: 10%;
+  padding: 50px;
+  background-color: #fbd6a8;
+}
+
+h1,
+h2 {
+  color: #261b07;
+}
+
+#img-div {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  font-size: 0.85rem;
+}
+#tribute-info {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+}
+
+.referencias {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+}
+
+#sign {
+  text-align: right;
+  color: #747573;
+}
+
+.separador {
+  border: 1px solid;
+  width: 100%;
+}
+
+a {
+  color: #000000;
+  outline: none;
+  text-decoration: none;
+}
+
+a:hover, active{
+  color: #0088cc;
+}
+
+
+#tribute-link {
+    font-weight: 550;
+}
